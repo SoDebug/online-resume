@@ -192,7 +192,6 @@ progress::-moz-progress-value {
 /* 样式修改 */
 .left-label2 {
     display: inline-block;
-    width: 120px;
 }
 
 .portrait {
