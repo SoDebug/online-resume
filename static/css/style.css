@@ -29,10 +29,6 @@ span {
     display: inline-block;
 }
 
-.label-value{
-    width: 200px;
-    vertical-align: top;
-}
 
 .iconfont {
     font-family:"iconfont" !important;
@@ -77,6 +73,7 @@ h1, h2, h3, h4, h5 {
 .stack-list li {
     margin-bottom: 12px;
 }
+
 
 .right-list li {
     margin-bottom: 12px;
@@ -183,6 +180,17 @@ progress::-moz-progress-value {
 }
 
 .left-label {
+    display: inline-block;
+    width: 120px;
+}
+
+.label-value{
+    width: 200px;
+    vertical-align: top;
+}
+
+/* 样式修改 */
+.left-label2 {
     display: inline-block;
     width: 120px;
 }
